@@ -5,4 +5,16 @@
 //  Created by Aleksey on 11.11.2021.
 //
 
-import Foundation
+
+import UIKit
+
+class TravelViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
