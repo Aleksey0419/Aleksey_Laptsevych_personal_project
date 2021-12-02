@@ -10,7 +10,7 @@
         <!--Main-->
         <scene sceneID="TtL-fP-Rgp">
             <objects>
-                <viewController id="Om4-MW-cBI" sceneMemberID="viewController">
+                <viewController id="Om4-MW-cBI" customClass="MainViewController" customModule="Homework_5" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8r3-K0-1RO">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -29,6 +29,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="Q8p-LU-s7C" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Qjb-fb-eNU">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
